@@ -13,6 +13,7 @@ import { NewAccountComponent } from './new-account/new-account.component';
     AppComponent,
     AccountComponent,
     NewAccountComponent,
+  
   ],
   imports: [
     BrowserModule,
